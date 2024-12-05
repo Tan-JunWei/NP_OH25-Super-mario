@@ -1,8 +1,8 @@
-# Super Mario Bros (2D)
+# Unity Mario Game
 
-> Super Mario Bros is a platformer game developed and published by Nintendo for the NES game console. Players control Mario as they traverse the Mushroom Kingdom to rescue Princess Peach from Bowser. They traverse side-scrolling stages while avoiding hazards such as enemies and pits with the aid of power-ups such as the Super Mushroom, Fire Flower, and Starman.
+## Overview
+This Unity Mario game was originally developed for **NP Open House 2025** as an interactive exhibit. The project features a classic platformer experience inspired by the iconic Mario series.
 
-- **Topics**: Physics, Level Design, Game Feel
-- **Version**: Unity 2021.3 (LTS)
-- [**Download**](https://github.com/zigurous/unity-super-mario-tutorial/archive/refs/heads/main.zip)
-- [**Video Playlist**](https://youtube.com/playlist?list=PLqlFiJjSZ2x1mrMpSQgYdRm8PyWRTg6He)
+In developing the Unity Mario Game, we initially started by following a YouTube tutorial that provided a step-by-step guide to building a platformer game. The tutorial helped us get a foundational understanding of the key concepts, mechanics, and setup in Unity, such as creating a 2D environment, character animations, and implementing player controls.
+
+However, we have since moved on to a different project for the event. This repository is now archived and no longer maintained.
